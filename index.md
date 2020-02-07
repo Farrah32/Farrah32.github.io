@@ -9,7 +9,7 @@ banner_subtitle: Thank you for stopping by
 background_image: /images/background.jpg
 
 # all of the following variables are optional -----------------
-page_url: /farrahcampbell.com # only include this variable if you aren't building the page to your primary domain 
+page_url: https://farrahcampbell.com/ # only include this variable if you aren't building the page to your primary domain 
 
 # favicon
 favicon: /assets/ico/favicon.ico
