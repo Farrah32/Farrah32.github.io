@@ -23,8 +23,8 @@ google_analytics: UA-157941260-1 # your google analytics Tracking ID
 medium: FarrahC32 # medium handle
 
 # By declaring these variables, you can include a button that links to an external website or to media.
-about_button: https://github.com/saragong/hello # the link
-about_button_label: get hello # the label on the button
+about_button: https://twitter.com/FarrahC32 # the link
+about_button_label: Find me on Twitter # the label on the button
 
 # optional portfolio section ------------------------------------------
 
