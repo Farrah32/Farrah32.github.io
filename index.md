@@ -43,7 +43,7 @@ cta_button_label:  # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-###  **hello**, thank you for stopping by
+###  **hello**
 I am Farrah a connector of people, solver of problems, and love working in tech. I love working with so many that work to solve incredibly challenging problems every day. People who motivate me to learn new skills, accomplish tasks I never dreamed possible, and to want to be a better person. I have been honored to speak all over the world sharing my passion for focusing on what matters, keeping an open mind, continuous desire to learn, and to lead with a smile.
 
 This website is a work in progress, please be patient with me. I am just learning how to build.
